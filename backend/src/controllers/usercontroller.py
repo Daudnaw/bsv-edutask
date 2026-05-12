@@ -1,6 +1,6 @@
 from src.controllers.controller import Controller
 from src.util.dao import DAO
-
+#updated
 import re
 emailValidator = re.compile(r'^[^@]+@[^@]+\.[^@]+$')
 
